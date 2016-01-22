@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "billcurt-electron-test-auto-update",
+  "version": "0.1.0",
+  "description": "A minimal auto-updating Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
